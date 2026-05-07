@@ -1,0 +1,5 @@
+name = input("Name: ")
+age = int(input("Age: "))
+gpa = float(input("GPA: "))
+print(f"Name: {name}, Age: {age}, GPA: {gpa:.1f}")
+print(type(name), type(age), type(gpa))
