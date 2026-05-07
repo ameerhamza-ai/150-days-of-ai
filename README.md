@@ -23,7 +23,11 @@ as part of my #150DaysOfAI journey.
 | Day 4 | String Methods | ✅ Done |
 | Day 5 | Operators | ✅ Done |
 | Day 6 | Calculator Final Project | ✅ Done View Project(https://github.com/ameerhamza-ai/python-projects) |
-
+| Day 7 | Quick Revision + Preview | ✅ Done |
+| Day 8 | if/elif/else/Nested-if | ✅ Done |
+| Day 9 | for loops | ✅ Done |
+| Day 10 | While loops | ✅ Done |
+| Day 11 | Nested loops | ✅ Done |
 
 ## 📁 Folder Structure
 
