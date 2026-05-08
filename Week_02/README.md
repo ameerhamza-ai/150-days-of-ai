@@ -1,11 +1,11 @@
-# 📅 Week 02: Control Flow & Logic Building
+#  Week 02: Control Flow & Logic Building
 
-### 🎯 Weekly Objective:
+###  Weekly Objective:
 The focus of this week was to master decision-making structures and repetitive logic (loops) in Python. The goal was to transition from linear scripts to dynamic programs capable of handling complex patterns and conditions.
 
 ---
 
-### 📝 Topics Covered & Skills Acquired:
+###  Topics Covered & Skills Acquired:
 
 | Day | Topic | Key Concepts Learned |
 | :--- | :--- | :--- |
@@ -19,15 +19,15 @@ The focus of this week was to master decision-making structures and repetitive l
 
 ---
 
-### 🛠️ Featured Project: Pattern Generator
+###  Featured Project: Pattern Generator
 A creative CLI tool that generates customizable geometric patterns.
 - **Features:** Supports square, triangle, and pyramid shapes with user-defined sizes.
 - **Concepts Applied:** Nested Loops, Conditional Logic, and Input Validation.
 
-### 💡 Key Learning Insights:
+###  Key Learning Insights:
 - Deepened understanding of **control flow** and how to manage program execution.
 - Learned the efficiency of `break` and `continue` in optimizing loop performance.
 - Improved **problem-solving skills** by breaking down complex patterns into smaller loop iterations.
 
 ---
-**Status:** Completed ✅ | **Challenge:** #150DaysOfAI
+**Status:** Completed  | **Challenge:** #150DaysOfAI
