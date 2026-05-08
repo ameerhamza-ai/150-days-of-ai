@@ -28,6 +28,7 @@ as part of my #150DaysOfAI journey.
 | Day 9 | for loops | ✅ Done |
 | Day 10 | While loops | ✅ Done |
 | Day 11 | Nested loops | ✅ Done |
+|Day 12 | Pattern Practice| ✅ Done |
 
 ## 📁 Folder Structure
 
