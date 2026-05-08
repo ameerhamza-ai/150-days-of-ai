@@ -1,11 +1,11 @@
-# 📅 Week 01: Python Fundamentals & CLI Basics
+#  Week 01: Python Fundamentals & CLI Basics
 
-### 🎯 Weekly Objective:
+###  Weekly Objective:
 The goal of this week was to establish a strong foundation in Python syntax, data handling, and basic input/output operations while building a functional CLI-based application.
 
 ---
 
-### 📝 Topics Covered & Skills Acquired:
+###  Topics Covered & Skills Acquired:
 
 | Day | Topic | Key Concepts Learned |
 | :--- | :--- | :--- |
@@ -19,15 +19,15 @@ The goal of this week was to establish a strong foundation in Python syntax, dat
 
 ---
 
-### 🛠️ Featured Project: CLI Calculator App
+###  Featured Project: CLI Calculator App
 A comprehensive calculator that performs arithmetic operations.
 - **Features:** Supports user input, handles data type conversion, and uses formatted output for a better user experience.
 - **Concepts Applied:** Input handling, Variable storage, and Operators.
 
-### 💡 Key Learning Insights:
+###  Key Learning Insights:
 - Understood how Python handles dynamic typing.
 - Learned the importance of data validation through type casting.
 - Improved code readability using proper naming conventions and string formatting.
 
 ---
-**Status:** Completed ✅ | **Challenge:** #150DaysOfAI
+**Status:** Completed  | **Challenge:** #150DaysOfAI
