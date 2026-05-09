@@ -56,7 +56,7 @@ by the end you will know:
 | Day 11 | Nested Loops | ✅ Done |
 | Day 12 | Pattern Practice | ✅ Done |
 | Day 13 | Pattern Generator (Project) | ✅ Done |
-| Day 14 | Review + GitHub | Pending |
+| Day 14 | Quick Revision + Review | Pending |
 
 ---
 
