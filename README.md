@@ -13,7 +13,7 @@ as part of my #150DaysOfAI journey.
 **Started:** April 2026  
 **Goal:** Become an AI Architect  
 **University:** KUST — BS Artificial Intelligence  
-**LinkedIn:** [ameerhamzaai](www.linkedin.com/in/ameerhamzaai)
+**LinkedIn:** www.linkedin.com/in/ameerhamzaai
 
 ---
 
