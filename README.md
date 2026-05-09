@@ -43,7 +43,7 @@ by the end you will know:
 | Day 3 | Input & Output | ✅ Done |
 | Day 4 | String Methods | ✅ Done |
 | Day 5 | Operators | ✅ Done |
-| Day 6 | Calculator App (Project) | ✅ [View →](https://github.com/ameerhamza-ai/python-projects) |
+| Day 6 | Calculator App (Project) | ✅ Done|
 | Day 7 | Quick Revision + Preview | ✅ Done |
 
 ## Week 2 — Conditionals, Loops & Patterns
@@ -55,7 +55,7 @@ by the end you will know:
 | Day 10 | While Loops | ✅ Done |
 | Day 11 | Nested Loops | ✅ Done |
 | Day 12 | Pattern Practice | ✅ Done |
-| Day 13 | Pattern Generator (Project) | ✅ [View →](https://github.com/ameerhamza-ai/python-projects) |
+| Day 13 | Pattern Generator (Project) | ✅ Done |
 | Day 14 | Review + GitHub | Pending |
 
 ---
