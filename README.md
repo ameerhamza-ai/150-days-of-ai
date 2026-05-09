@@ -94,7 +94,7 @@ by the end you will know:
 - **Days Completed:** 13/150
 - **Projects Built:** 2
 - **Commits:** Daily 
-- **LinkedIn Impressions:** 12.5k+ in 12 days
+
 
 ---
 
