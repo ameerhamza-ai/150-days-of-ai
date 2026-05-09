@@ -31,3 +31,5 @@ A creative CLI tool that generates customizable geometric patterns.
 
 ---
 **Status:** Completed  | **Challenge:** #150DaysOfAI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
