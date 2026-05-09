@@ -98,5 +98,5 @@ by the end you will know:
 
 ## 🔗 Connect
 - LinkedIn: www.linkedin.com/in/ameerhamzaai
-- GitHub: 
+- GitHub: https://github.com/ameerhamza-ai
 - Challenge: #150DaysOfAI
