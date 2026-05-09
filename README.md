@@ -13,7 +13,7 @@ as part of my #150DaysOfAI journey.
 **Started:** April 2026  
 **Goal:** Become an AI Architect  
 **University:** KUST — BS Artificial Intelligence  
-**LinkedIn:** www.linkedin.com/in/ameerhamzaai
+**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 
 ---
 
@@ -96,7 +96,7 @@ by the end you will know:
 
 ---
 
-## 🔗 Connect
-- LinkedIn: www.linkedin.com/in/ameerhamzaai
+## Connect
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 - GitHub: https://github.com/ameerhamza-ai
 - Challenge: #150DaysOfAI
