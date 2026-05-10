@@ -43,6 +43,11 @@ by the end you will know:
 | **Week 4** | Dictionaries, Sets, Comprehensions | Grade Manager | Coming |
 
 ---
+## University Tasks
+> Lab work and assignments pushed alongside daily practice.
+> All uni tasks inside each Week folder → `uni-tasks/`
+
+---
 
 ## Projects Built
 
@@ -65,8 +70,9 @@ by the end you will know:
 │   └── day_05_operators.py
 ├── week-02
 │   └── ...
-├── university-tasks/
-│   ├── lab_01_basics.py
+├── uni-tasks/        
+│   ├── lab_01/
+│   ├── lab_02/
 │   └── ...
 └── README.md
 
@@ -75,7 +81,7 @@ by the end you will know:
 ---
 
 ## Stats
-- **Days Completed:** 13/150
+- **Days Completed:** 14/150
 - **Projects Built:** 2
 - **Commits:** Daily 
 
@@ -87,3 +93,7 @@ by the end you will know:
 - LinkedIn: [linkedin.com/in/ameerhamzaai](https://linkedin.com/in/ameerhamzaai)
 - GitHub: [ameerhamza-ai](https://github.com/ameerhamza-ai)
 - Challenge: #150DaysOfAI
+---
+
+> *"Every line of code today is*
+> *one step closer to MIT."*
