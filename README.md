@@ -33,30 +33,14 @@ by the end you will know:
 | **Month 5** | ML — Scikit-learn, Models, Capstone Project |
 
 ---
+## Progress Tracker
 
-## Week 1 — Python Basics
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Variables & Data Types | ✅ Done |
-| Day 2 | Type Casting | ✅ Done |
-| Day 3 | Input & Output | ✅ Done |
-| Day 4 | String Methods | ✅ Done |
-| Day 5 | Operators | ✅ Done |
-| Day 6 | Calculator App (Project) | ✅ Done|
-| Day 7 | Quick Revision + Preview | ✅ Done |
-
-## Week 2 — Conditionals, Loops & Patterns
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 8 | if/elif/else + Nested if | ✅ Done |
-| Day 9 | For Loops | ✅ Done |
-| Day 10 | While Loops | ✅ Done |
-| Day 11 | Nested Loops | ✅ Done |
-| Day 12 | Pattern Practice | ✅ Done |
-| Day 13 | Pattern Generator (Project) | ✅ Done |
-| Day 14 | Quick Revision + Review | Pending |
+| Week | Topics Covered | Projects | Status |
+|------|---------------|----------|--------|
+| **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | ✅ Done |
+| **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | ✅ Done |
+| **Week 3** | Lists, Tuples, Functions | Quiz Game | Coming |
+| **Week 4** | Dictionaries, Sets, Comprehensions | Grade Manager | Coming |
 
 ---
 
