@@ -81,7 +81,7 @@ by the end you will know:
 ---
 
 ## Stats
-- **Days Completed:** 14/150
+- **Days Completed:** 15/150
 - **Projects Built:** 2
 - **Commits:** Daily 
 
