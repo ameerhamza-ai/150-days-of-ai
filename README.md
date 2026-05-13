@@ -35,10 +35,10 @@ by the end you will know:
 ---
 | Week | Topics Covered | Projects | Uni Tasks | Status |
 |------|---------------|----------|-----------|--------|
-| **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | Lab tasks included | ✅ Done |
-| **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | Lab tasks included | ✅ Done |
-| **Week 3** | Functions, Scope (LEGB), Recursion, Lambda | Quiz Game | Lab tasks included | In Progress |
-| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks included | Coming |
+| **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | Lab tasks coming | ✅ Done |
+| **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | Lab tasks coming | ✅ Done |
+| **Week 3** | Functions, Scope (LEGB), Recursion, Lambda | Quiz Game | Lab tasks coming | In Progress |
+| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks coming | Coming |
 
 ---
 ## University Tasks
