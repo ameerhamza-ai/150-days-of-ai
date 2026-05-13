@@ -1,4 +1,4 @@
-# Week 3 — Functions, Scope & Recursion
+# Week 03: Functions, Scope & Recursion
 
 ### Weekly Objective:
 
