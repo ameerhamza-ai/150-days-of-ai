@@ -33,14 +33,12 @@ by the end you will know:
 | **Month 5** | ML — Scikit-learn, Models, Capstone Project |
 
 ---
-## Progress Tracker
-
-| Week | Topics Covered | Projects | Status |
-|------|---------------|----------|--------|
-| **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | ✅ Done |
-| **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | ✅ Done |
-| **Week 3** | Lists, Tuples, Functions | Quiz Game | Coming |
-| **Week 4** | Dictionaries, Sets, Comprehensions | Grade Manager | Coming |
+| Week | Topics Covered | Projects | Uni Tasks | Status |
+|------|---------------|----------|-----------|--------|
+| **Week 1** | Variables, Type Casting, Input/Output, String Methods, Operators | Calculator App | Lab tasks included | ✅ Done |
+| **Week 2** | if/elif/else, For Loops, While Loops, Nested Loops, Patterns | Pattern Generator | Lab tasks included | ✅ Done |
+| **Week 3** | Functions, Scope (LEGB), Recursion, Lambda | Quiz Game | Lab tasks included | In Progress |
+| **Week 4** | Lists, Tuples, Comprehensions | Grade Manager | Lab tasks included | Coming |
 
 ---
 ## University Tasks
@@ -81,7 +79,7 @@ by the end you will know:
 ---
 
 ## Stats
-- **Days Completed:** 15/150
+- **Days Completed:** 17/150
 - **Projects Built:** 2
 - **Commits:** Daily 
 
