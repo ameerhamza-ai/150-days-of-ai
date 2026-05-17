@@ -43,7 +43,7 @@ by the end you will know:
 ---
 ## University Tasks
 > Lab work and assignments pushed alongside daily practice.
-> All uni tasks inside each Week folder → `uni-tasks/`
+> All uni tasks inside → `uni-tasks/` folder
 
 ---
 
